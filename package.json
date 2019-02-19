@@ -1,0 +1,32 @@
+{
+  "name": "codetest",
+  "version": "1.0.0",
+  "description": "NodeJS code test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiniii/NodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Jinitha Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiniii/NodeJS/issues"
+  },
+  "homepage": "https://github.com/jiniii/NodeJS#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  }
+}
