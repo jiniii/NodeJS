@@ -1,2 +1,0 @@
-http://localhost:3001/word/nexttonext
-First non repeating character :: o
